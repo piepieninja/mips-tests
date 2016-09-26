@@ -16,4 +16,4 @@ Testing MIPS programs for CSCI4720
 Some of the tests in this repo are <b>direct copies</b> on online examples. This is because I am trying to learn, and I do not claim these examples as my own. They Include:
 
 * [MIPS Examples: String from the Console](http://www.tfinley.net/notes/cps104/mips.html)
-
+* [MIPS Architecture and Assembly Language Overview](http://logos.cs.uic.edu/366/notes/mips%20quick%20tutorial.htm)
