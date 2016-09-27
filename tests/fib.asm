@@ -49,7 +49,7 @@ loop:
 	add $t2,$t2,$t1	# $t2 += $t1
 	move $t1,$t0	# $t1 = $t0
 	
-	bgt $t2,1000,end	# go to end if $t2 > 1000
+	bgt $t2,9000,end	# go to end if $t2 > 9000
 	j loop
 	
 main:	                  # indicates start of code (first instruction to execute
